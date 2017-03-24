@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=NetJ6_25 Pin=P9-6
+Removed Pin From Net: NetName=NetJ5_24 Pin=P9-7
+Removed Pin From Net: NetName=1.8V Pin=R6-1
+Removed Pin From Net: NetName=UART1_RX Pin=R6-2
+Removed Pin From Net: NetName=5V_ODROID Pin=R7-1
+Removed Pin From Net: NetName=NetQ2_1 Pin=R7-2
+Removed Pin From Net: NetName=NetJ5_14 Pin=R8-2
+Removed Pin From Net: NetName=NetJ5_14 Pin=R9-1
+Removed Pin From Net: NetName=GND Pin=R9-2
+Change Component Designator: OldDesignator=R10 NewDesignator=R14
+Change Component Designator: OldDesignator=R11 NewDesignator=R15
+Change Component Designator: OldDesignator=R12 NewDesignator=R16
+Change Component Designator: OldDesignator=R13 NewDesignator=R17
+Change Component Designator: OldDesignator=R14 NewDesignator=R18
+Change Component Designator: OldDesignator=R15 NewDesignator=R19
+Change Component Designator: OldDesignator=R16 NewDesignator=R20
+Change Component Designator: OldDesignator=R17 NewDesignator=R21
+Change Component Designator: OldDesignator=R18 NewDesignator=R22
+Change Component Designator: OldDesignator=R19 NewDesignator=R23
+Change Component Designator: OldDesignator=R20 NewDesignator=R24
+Change Component Designator: OldDesignator=R21 NewDesignator=R25
+Change Component Designator: OldDesignator=R22 NewDesignator=R26
+Change Component Designator: OldDesignator=R23 NewDesignator=R27
+Change Component Designator: OldDesignator=R24 NewDesignator=R28
+Change Component Designator: OldDesignator=R25 NewDesignator=R29
+Change Component Designator: OldDesignator=R26 NewDesignator=R30
+Change Component Designator: OldDesignator=R27 NewDesignator=R31
+Change Component Description : Designator=R9 Old Description=1k New Description=10k
+Change Component Description : Designator=R8 Old Description=2.2k New Description=10k
+Added Component: Designator=R10(0805)
+Added Component: Designator=R11(0805)
+Added Component: Designator=R12(0805)
+Added Component: Designator=R13(0805)
+Added Pin To Net: NetName=NetJ5_24 Pin=P9-6
+Added Pin To Net: NetName=NetJ6_25 Pin=P9-7
+Added Pin To Net: NetName=NetJ6_24 Pin=R6-2
+Added Pin To Net: NetName=5V_SWITCH Pin=R7-1
+Added Pin To Net: NetName=NetJ5_24 Pin=R7-2
+Added Pin To Net: NetName=NetJ6_25 Pin=R8-2
+Added Pin To Net: NetName=5V_SWITCH Pin=R9-1
+Added Pin To Net: NetName=NetJ5_25 Pin=R9-2
+Added Pin To Net: NetName=1.8V Pin=R6-1
+Added Pin To Net: NetName=UART1_RX Pin=R6-2
+Added Pin To Net: NetName=5V_ODROID Pin=R7-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R7-2
+Added Pin To Net: NetName=5V_SWITCH Pin=R8-1
+Added Pin To Net: NetName=NetJ5_14 Pin=R8-2
+Added Pin To Net: NetName=NetJ5_14 Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R9-2
+Change Net Name : Old Net Name=NetR22_1 New Net Name=NetR26_1
+Added Member To Class: ClassName=Connecteurs Member=Component R8 Res*
+Added Member To Class: ClassName=Connecteurs Member=Component R9 Res*
+Added Member To Class: ClassName=Connecteurs Member=Component R10 Res*
+Added Member To Class: ClassName=Connecteurs Member=Component R11 Res*
+Added Member To Class: ClassName=Microcontroleur Member=Component R31 Res1
+Added Room: Name=Alimentations
+Added Room: Name=Connecteurs
+Added Room: Name=Controle Moteurs
+Added Room: Name=Microcontroleur

@@ -1,0 +1,16 @@
+Change Component Designator: Old Designator=MOTEUR1_X New Designator=MOTEUR1
+Change Component Designator: Old Designator=MOTEUR2_X New Designator=MOTEUR2
+Change Component Designator: Old Designator=MOTEUR_Z New Designator=MOTEUR_Z1
+Change Component Designator: Old Designator=P3 New Designator=P2
+Change Component Designator: Old Designator=P5 New Designator=P3
+Change Component Designator: Old Designator=P6 New Designator=P4
+Change Component Designator: Old Designator=P9 New Designator=P5
+Change Component Designator: Old Designator=P10 New Designator=P6
+Change Component Designator: Old Designator=P11 New Designator=P7
+Change Component Designator: Old Designator=P14 New Designator=P8
+Change Component Designator: Old Designator=P19 New Designator=P10
+Change Component Designator: Old Designator=P? New Designator=P9
+Change Component Designator: Old Designator=PWM1_1 New Designator=PWM4
+Change Component Designator: Old Designator=PWM1_2 New Designator=PWM3
+Change Component Designator: Old Designator=PWM1_3 New Designator=PWM2
+Change Component Designator: Old Designator=PWM2 New Designator=PWM1

@@ -1,0 +1,8 @@
+Change Net Name : Old Net Name=NetP2_1 New Net Name=NetPWM2_1
+Change Net Name : Old Net Name=NetP8_1 New Net Name=NetPWM1_3_1
+Change Net Name : Old Net Name=NetP13_1 New Net Name=NetPWM1_2_1
+Change Net Name : Old Net Name=NetP16_1 New Net Name=NetPWM1_1_1
+Added Room: Name=Alimentations
+Added Room: Name=Connecteurs
+Added Room: Name=Controle Moteurs
+Added Room: Name=Microcontroleur

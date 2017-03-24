@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=C16 NewDesignator=C17
+Change Component Designator: OldDesignator=C17 NewDesignator=C16
+Change Component Designator: OldDesignator=P15 NewDesignator=P19
+Change Component Designator: OldDesignator=P19 NewDesignator=P20
+Change Component Designator: OldDesignator=S2 NewDesignator=S1
+Added Component: Designator=Q1(SOT23-3_N)
+Added Component: Designator=Q2(SOT23-3_N)
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=1.8V Pin=Q1-2
+Added Pin To Net: NetName=UART1_TX Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=1.8V Pin=Q2-2
+Added Pin To Net: NetName=UART1_RX Pin=Q2-3
+Change Net Name : Old Net Name=NetC16_1 New Net Name=NetC17_1
+Change Net Name : Old Net Name=NetC17_1 New Net Name=NetC16_1
+Added Member To Class: ClassName=Connecteurs Member=Component P20 Moteur2 Axe X
+Added Member To Class: ClassName=Connecteurs Member=Component Q1 BSS138
+Added Member To Class: ClassName=Connecteurs Member=Component Q2 BSS138

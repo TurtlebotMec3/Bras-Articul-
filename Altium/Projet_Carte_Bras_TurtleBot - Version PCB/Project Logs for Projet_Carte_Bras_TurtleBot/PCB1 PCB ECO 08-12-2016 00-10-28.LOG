@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=P14 Old Footprint=HDR1X6 New Footprint=690367280676
+Added Room: Name=Alimentations
+Added Room: Name=Connecteurs
+Added Room: Name=Controle Moteurs
+Added Room: Name=Microcontroleur

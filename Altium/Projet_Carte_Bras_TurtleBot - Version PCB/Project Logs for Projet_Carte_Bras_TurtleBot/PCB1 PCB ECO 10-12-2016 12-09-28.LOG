@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetJ5_24 Pin=P9-6
+Removed Pin From Net: NetName=NetJ6_25 Pin=P9-7
+Removed Pin From Net: NetName=NetJ5_24 Pin=R7-2
+Removed Pin From Net: NetName=NetJ6_25 Pin=R8-2
+Added Pin To Net: NetName=NetJ6_25 Pin=P9-6
+Added Pin To Net: NetName=NetJ5_24 Pin=P9-7
+Added Pin To Net: NetName=NetJ6_25 Pin=R7-2
+Added Pin To Net: NetName=NetJ5_24 Pin=R8-2
+Added Room: Name=Alimentations
+Added Room: Name=Connecteurs
+Added Room: Name=Controle Moteurs
+Added Room: Name=Microcontroleur

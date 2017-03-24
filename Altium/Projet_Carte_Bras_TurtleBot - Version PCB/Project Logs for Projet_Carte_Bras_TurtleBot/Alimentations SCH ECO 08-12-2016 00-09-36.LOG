@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=P14 Old Footprint=690367280676 New Footprint=HDR1X6
+Change Component Designator: OldDesignator=P2 NewDesignator=PWM2
+Change Component Designator: OldDesignator=P8 NewDesignator=PWM1_3
+Change Component Designator: OldDesignator=P13 NewDesignator=PWM1_2
+Change Component Designator: OldDesignator=P16 NewDesignator=PWM1_1
+Change Component Designator: OldDesignator=P17 NewDesignator=MOTEUR_Z
+Change Component Designator: OldDesignator=P18 NewDesignator=MOTEUR1_X
+Change Component Designator: OldDesignator=P20 NewDesignator=MOTEUR2_X

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=R2-1
+Removed Pin From Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=NetD1_2 Pin=R2-2
+Added Member To Class: ClassName=Microcontroleur Member=Component R25 Res1
+Added Member To Class: ClassName=Microcontroleur Member=Component R26 Res1
+Added Room: Name=Alimentations
+Added Room: Name=Connecteurs
+Added Room: Name=Controle Moteurs
+Added Room: Name=Microcontroleur
