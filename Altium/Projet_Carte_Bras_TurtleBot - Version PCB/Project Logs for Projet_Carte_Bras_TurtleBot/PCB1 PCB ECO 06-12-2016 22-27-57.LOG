@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=5V_MOTEURS Pin=S1-1
-Removed Pin From Net: NetName=5V_SWITCH Pin=S1-2
-Removed Pin From Net: NetName=5V_ODROID Pin=S1-3
-Removed Member From Class: ClassName=Connecteurs Member=S1
-Added Component: Designator=P15(HDR1X3)
-Added Pin To Net: NetName=5V_MOTEURS Pin=P15-1
-Added Pin To Net: NetName=5V_SWITCH Pin=P15-2
-Added Pin To Net: NetName=5V_ODROID Pin=P15-3
